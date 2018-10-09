@@ -1,0 +1,1229 @@
+﻿Log file open, 09/05/18 15:24:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1981298438) SRandInit(1981298438).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236068
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.05-12.24.18:619][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-12.24.18:619][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.05-12.24.18:641][  0]LogInit: Computer: DESKTOP-BU93RT8
+[2018.09.05-12.24.18:641][  0]LogInit: User: Misha
+[2018.09.05-12.24.18:641][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.09.05-12.24.18:642][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.09.05-12.24.18:642][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.05-12.24.18:642][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.05-12.24.18:642][  0]LogMemory: Process Physical Memory: 273.73 MB used, 273.73 MB peak
+[2018.09.05-12.24.18:642][  0]LogMemory: Process Virtual Memory: 277.00 MB used, 277.00 MB peak
+[2018.09.05-12.24.18:642][  0]LogMemory: Physical Memory: 4353.76 MB used,  3757.26 MB free, 8111.02 MB total
+[2018.09.05-12.24.18:642][  0]LogMemory: Virtual Memory: 4786.15 MB used,  3757.26 MB free, 134217728.00 MB total
+[2018.09.05-12.24.18:827][  0]LogInit: Using OS detected language (ru-RU).
+[2018.09.05-12.24.18:827][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.09.05-12.24.18:830][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.09.05-12.24.18:830][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.09.05-12.24.19:204][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.05-12.24.19:433][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.05-12.24.19:487][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.09.05-12.24.19:487][  0]LogD3D11RHI:       6052/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.05-12.24.19:488][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.05-12.24.19:488][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.05-12.24.19:488][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.05-12.24.19:493][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.05-12.24.19:493][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.05-12.24.19:493][  0]LogWindows: EnumDisplayDevices:
+[2018.09.05-12.24.19:493][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.09.05-12.24.19:493][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.09.05-12.24.19:494][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.09.05-12.24.19:494][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.09.05-12.24.19:494][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.05-12.24.19:494][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.09.05-12.24.19:494][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.05-12.24.19:494][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.05-12.24.19:494][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.09.05-12.24.19:526][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.05-12.24.19:555][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.05-12.24.19:603][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (D:/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/1224/).
+[2018.09.05-12.24.19:603][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Misha/AppData/Local/Temp/UnrealShaderWorkingDir/69612AC84F25935078F46BB1FEC3AA6F/'.
+[2018.09.05-12.24.19:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.05-12.24.20:390][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.05-12.24.20:451][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.05-12.24.20:511][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.05-12.24.20:572][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.05-12.24.20:633][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.05-12.24.20:693][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.05-12.24.20:753][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.05-12.24.20:811][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.05-12.24.20:866][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.05-12.24.20:925][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.05-12.24.20:982][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.05-12.24.21:041][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.05-12.24.21:099][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.05-12.24.21:157][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.05-12.24.21:275][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.05-12.24.21:275][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.05-12.24.21:334][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-12.24.21:385][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.05-12.24.21:489][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.05-12.24.21:520][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.05-12.24.21:579][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.05-12.24.21:637][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.05-12.24.21:695][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.05-12.24.21:755][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.05-12.24.21:755][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.05-12.24.22:326][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.05-12.24.22:396][  0]LogDerivedDataCache: Loaded boot cache 0.07s 91MB C:/Users/Misha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.09.05-12.24.22:396][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Misha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.09.05-12.24.22:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.05-12.24.22:397][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.05-12.24.22:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.05-12.24.22:397][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.05-12.24.22:410][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.05-12.24.22:422][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Misha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.05-12.24.22:431][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.05-12.24.22:431][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.05-12.24.22:432][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.05-12.24.22:432][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.05-12.24.22:746][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-12.24.23:114][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.05-12.24.23:164][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.05-12.24.23:164][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.05-12.24.23:164][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.05-12.24.23:164][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.05-12.24.23:164][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.05-12.24.23:194][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.09.05-12.24.23:371][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.09.05-12.24.23:872][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.025669 seconds
+[2018.09.05-12.24.23:877][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.09.05-12.24.23:877][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.09.05-12.24.23:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.05-12.24.23:944][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.09.05-12.24.26:912][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.05-12.24.26:960][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.05-12.24.27:929][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.09.05-12.24.28:412][  0]SourceControl: Source control is disabled
+[2018.09.05-12.24.28:413][  0]SourceControl: Source control is disabled
+[2018.09.05-12.24.28:476][  0]SourceControl: Source control is disabled
+[2018.09.05-12.24.28:539][  0]SourceControl: Source control is disabled
+[2018.09.05-12.24.29:521][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.05-12.24.29:847][  0]LogOcInput: OculusInput pre-init called
+[2018.09.05-12.24.30:181][  0]LogEngine: Initializing Engine...
+[2018.09.05-12.24.30:183][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.05-12.24.30:363][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.05-12.24.30:363][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.05-12.24.30:522][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.05-12.24.30:539][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-12.24.30:557][  0]LogInit: FAudioDevice initialized.
+[2018.09.05-12.24.30:634][  0]LogDerivedDataCache: Saved boot cache 0.08s 91MB C:/Users/Misha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.09.05-12.24.30:651][  0]LogInit: Texture streaming: Enabled
+[2018.09.05-12.24.30:774][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.05-12.24.30:932][  0]LogInit: Transaction tracking system initialized
+[2018.09.05-12.24.31:320][  0]BlueprintLog: New page: Editor Load
+[2018.09.05-12.24.32:415][  0]LocalizationService: Localization service is disabled
+[2018.09.05-12.24.33:309][  0]LogConsoleResponse: Display: 
+[2018.09.05-12.24.33:582][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.05-12.24.33:582][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.05-12.24.33:582][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.05-12.24.34:442][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject/Content/' took 0.02s
+[2018.09.05-12.24.35:026][  0]SourceControl: Source control is disabled
+[2018.09.05-12.24.35:026][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.05-12.24.35:026][  0]LightingResults: New page: Lighting Build
+[2018.09.05-12.24.35:078][  0]MapCheck: New page: Map Check
+[2018.09.05-12.24.35:078][  0]LightingResults: New page: Lighting Build
+[2018.09.05-12.24.37:503][  0]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-12.24.39:344][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.05-12.24.39:361][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.05-12.24.39:418][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.485ms to complete.
+[2018.09.05-12.24.39:418][  0]LogFileHelpers: Loading map 'Level1' took 4.392
+[2018.09.05-12.24.39:602][  0]LogCollectionManager: Loaded 0 collections in 0.001761 seconds
+[2018.09.05-12.24.39:703][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2018.09.05-12.24.39:703][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject/Content/Developers/Misha/Collections/' took 0.01s
+[2018.09.05-12.24.39:703][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/MyProject/Content/Collections/' took 0.00s
+[2018.09.05-12.24.39:703][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.05-12.24.39:713][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2372 classes and 524 folders.
+[2018.09.05-12.24.39:797][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.05-12.24.40:185][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.05-12.24.40:250][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.05-12.24.40:490][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.05-12.24.40:492][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.05-12.24.40:504][  0]LogSlate: Took 0.005387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.05-12.24.40:657][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.05-12.24.40:874][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.05-12.24.40:874][  0]LogLoad: (Engine Initialization) Total time: 25.42 seconds
+[2018.09.05-12.24.40:874][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.05-12.24.40:874][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.09.05-12.24.41:230][  0]LogAssetRegistry: Asset discovery search completed in 17.8804 seconds
+[2018.09.05-12.24.41:231][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.05-12.24.41:231][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.09.05-12.24.41:234][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.05-12.24.41:303][  0]LogSlate: Took 0.005784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.05-12.40.03:469][656]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-12.40.03:926][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.40.03:927][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-12.40.03:930][656]PIE: New page: PIE session: Level1 (Sep 5, 2018, 6:40:03 PM)
+[2018.09.05-12.40.03:930][656]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-12.40.03:962][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032327s)
+[2018.09.05-12.40.03:963][656]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-12.40.03:963][656]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.09.05-12.40.03:963][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.033297s)
+[2018.09.05-12.40.03:986][656]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-12.40.03:998][656]LogInit: FAudioDevice initialized.
+[2018.09.05-12.40.04:042][656]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-12.40.04:046][656]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-15.40.04
+[2018.09.05-12.40.04:049][656]LogWorld: Bringing up level for play took: 0.004183
+[2018.09.05-12.40.04:101][656]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.09.05-12.40.04:129][656]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4972.865 Y=3536.280 Z=2025.116] for [Turret_C]
+[2018.09.05-12.40.04:130][656]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1844.662 Y=6016.495 Z=1865.881] for [Turret_C]
+[2018.09.05-12.40.04:133][656]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7125.291 Y=4394.222 Z=1998.769] for [Turret_C]
+[2018.09.05-12.40.04:136][656]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1340.624 Y=4691.977 Z=1957.755] for [Turret_C]
+[2018.09.05-12.40.04:139][656]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6191.835 Y=6544.935 Z=1892.152] for [Turret_C]
+[2018.09.05-12.40.04:140][656]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.288
+[2018.09.05-12.40.04:140][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.40.04:203][657]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-12.40.04:352][658]LogRenderer: Reallocating scene render targets to support 1788x952 Format 10 NumSamples 1 (Frame:3).
+[2018.09.05-12.40.04:393][659]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:5).
+[2018.09.05-12.40.16:684][117]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-12.40.16:684][117]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-12.40.16:698][117]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-12.40.16:718][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019302s)
+[2018.09.05-12.40.16:718][117]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-12.40.16:718][117]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2018.09.05-12.40.16:718][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020100s)
+[2018.09.05-12.40.16:718][117]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-12.40.16:721][117]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-15.40.16
+[2018.09.05-12.40.16:722][117]LogWorld: Bringing up level for play took: 0.002326
+[2018.09.05-12.40.16:732][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3058.429 Y=5042.805 Z=2076.357] for [Turret_C]
+[2018.09.05-12.40.16:733][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8.826 Y=5392.982 Z=2084.777] for [Turret_C]
+[2018.09.05-12.40.16:735][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6927.571 Y=4803.493 Z=1876.432] for [Turret_C]
+[2018.09.05-12.40.16:738][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-71.952 Y=3303.969 Z=2095.735] for [Turret_C]
+[2018.09.05-12.40.16:738][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=791.849 Y=3672.704 Z=2043.416] for [Turret_C]
+[2018.09.05-12.40.16:741][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5263.822 Y=4071.557 Z=2103.086] for [Turret_C]
+[2018.09.05-12.40.16:741][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3431.013 Y=2638.779 Z=2125.774] for [Turret_C]
+[2018.09.05-12.40.16:741][117]LogLoad: Took 0.057480 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-12.41.04:008][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.41.04:067][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.41.10:595][531]LogEditorViewport: Clicking on Actor (LMB): RandomMapGen_C (RandomMapGen)
+[2018.09.05-12.41.15:582][101]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-12.41.15:600][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.41.15:600][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-12.41.15:601][101]PIE: New page: PIE session: Level1 (Sep 5, 2018, 6:41:15 PM)
+[2018.09.05-12.41.15:601][101]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-12.41.15:621][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020574s)
+[2018.09.05-12.41.15:621][101]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-12.41.15:621][101]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2018.09.05-12.41.15:622][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021352s)
+[2018.09.05-12.41.15:643][101]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-12.41.15:654][101]LogInit: FAudioDevice initialized.
+[2018.09.05-12.41.15:686][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-12.41.15:689][101]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-15.41.15
+[2018.09.05-12.41.15:689][101]LogWorld: Bringing up level for play took: 0.002341
+[2018.09.05-12.41.15:698][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4848.429 Y=5431.076 Z=1848.914] for [Turret_C]
+[2018.09.05-12.41.15:699][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1651.534 Y=2033.662 Z=2023.350] for [Turret_C]
+[2018.09.05-12.41.15:700][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2316.888 Y=2327.023 Z=1948.834] for [Turret_C]
+[2018.09.05-12.41.15:701][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-539.224 Y=2388.072 Z=1880.438] for [Turret_C]
+[2018.09.05-12.41.15:702][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5501.811 Y=6499.514 Z=2101.796] for [Turret_C]
+[2018.09.05-12.41.15:705][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1053.658 Y=4710.373 Z=1874.420] for [Turret_C]
+[2018.09.05-12.41.15:707][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8585.516 Y=3451.789 Z=1900.758] for [Turret_C]
+[2018.09.05-12.41.15:707][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1423.702 Y=4070.580 Z=1879.810] for [Turret_C]
+[2018.09.05-12.41.15:708][101]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=857.150 Y=4084.581 Z=2000.806] for [Turret_C]
+[2018.09.05-12.41.15:708][101]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.719
+[2018.09.05-12.41.15:708][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.41.17:677][335]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-12.42.12:606][910]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-12.42.12:606][910]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-12.42.12:620][910]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-12.42.12:641][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020139s)
+[2018.09.05-12.42.12:641][910]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-12.42.12:641][910]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.09.05-12.42.12:641][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020969s)
+[2018.09.05-12.42.12:641][910]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-12.42.12:644][910]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-15.42.12
+[2018.09.05-12.42.12:645][910]LogWorld: Bringing up level for play took: 0.002320
+[2018.09.05-12.42.12:657][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8536.902 Y=6450.512 Z=1921.673] for [Turret_C]
+[2018.09.05-12.42.12:658][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1539.433 Y=3256.595 Z=2056.979] for [Turret_C]
+[2018.09.05-12.42.12:659][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5178.204 Y=2916.349 Z=2016.025] for [Turret_C]
+[2018.09.05-12.42.12:662][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=534.994 Y=1868.586 Z=1863.581] for [Turret_C]
+[2018.09.05-12.42.12:663][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3678.072 Y=3275.154 Z=2043.517] for [Turret_C]
+[2018.09.05-12.42.12:665][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2161.978 Y=1886.494 Z=1906.437] for [Turret_C]
+[2018.09.05-12.42.12:665][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-938.654 Y=2583.591 Z=1939.913] for [Turret_C]
+[2018.09.05-12.42.12:665][910]LogLoad: Took 0.059311 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-12.43.13:857][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.43.13:914][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-12.43.20:559][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Door2Cubes_C (BP_Door2Cubes)
+[2018.09.05-12.43.31:221][ 97]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.05-12.43.31:572][ 97]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.05-12.43.32:161][ 97]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.05-12.43.32:277][ 97]LogSlate: Took 0.004691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.05-12.43.32:430][ 98]LogSlate: Took 0.004805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.05-13.52.00:534][583]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-13.52.00:534][583]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-13.53.54:969][301]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-13.53.55:015][301]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.53.55:016][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-13.53.55:016][301]PIE: New page: PIE session: Level1 (Sep 5, 2018, 7:53:55 PM)
+[2018.09.05-13.53.55:017][301]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-13.53.55:073][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055242s)
+[2018.09.05-13.53.55:076][301]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-13.53.55:078][301]LogPlayLevel: PIE: World Init took: (0.004327s)
+[2018.09.05-13.53.55:080][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.062433s)
+[2018.09.05-13.53.55:197][301]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-13.53.55:211][301]LogInit: FAudioDevice initialized.
+[2018.09.05-13.53.55:253][301]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-13.53.55:257][301]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-16.53.55
+[2018.09.05-13.53.55:258][301]LogWorld: Bringing up level for play took: 0.003842
+[2018.09.05-13.53.55:273][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4798.727 Y=3953.692 Z=1957.526] for [Turret_C]
+[2018.09.05-13.53.55:276][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1862.677 Y=4115.838 Z=2019.887] for [Turret_C]
+[2018.09.05-13.53.55:280][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2130.415 Y=2224.460 Z=1960.335] for [Turret_C]
+[2018.09.05-13.53.55:282][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5188.725 Y=6072.498 Z=1872.791] for [Turret_C]
+[2018.09.05-13.53.55:285][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=541.888 Y=5251.186 Z=1937.061] for [Turret_C]
+[2018.09.05-13.53.55:285][301]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.857
+[2018.09.05-13.53.55:285][301]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.53.55:492][311]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-13.54.32:344][713]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-13.54.32:344][713]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-13.54.32:368][713]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-13.54.32:388][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020587s)
+[2018.09.05-13.54.32:389][713]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-13.54.32:389][713]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.09.05-13.54.32:389][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021596s)
+[2018.09.05-13.54.32:389][713]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-13.54.32:392][713]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-16.54.32
+[2018.09.05-13.54.32:392][713]LogWorld: Bringing up level for play took: 0.002358
+[2018.09.05-13.54.32:402][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2308.544 Y=6004.123 Z=1867.842] for [Turret_C]
+[2018.09.05-13.54.32:403][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9646.673 Y=4460.317 Z=2037.304] for [Turret_C]
+[2018.09.05-13.54.32:405][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2209.141 Y=6953.718 Z=2021.916] for [Turret_C]
+[2018.09.05-13.54.32:405][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9274.814 Y=3167.544 Z=2031.117] for [Turret_C]
+[2018.09.05-13.54.32:408][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-52.724 Y=3202.546 Z=2054.289] for [Turret_C]
+[2018.09.05-13.54.32:409][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4174.730 Y=6720.430 Z=1988.490] for [Turret_C]
+[2018.09.05-13.54.32:412][713]LogLoad: Took 0.068057 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-13.56.06:531][  4]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-13.56.06:532][  4]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-13.56.06:553][  4]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-13.56.06:573][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019497s)
+[2018.09.05-13.56.06:573][  4]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-13.56.06:573][  4]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.09.05-13.56.06:573][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020495s)
+[2018.09.05-13.56.06:573][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-13.56.06:576][  4]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-16.56.06
+[2018.09.05-13.56.06:577][  4]LogWorld: Bringing up level for play took: 0.002411
+[2018.09.05-13.56.06:594][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6520.159 Y=1964.636 Z=1970.215] for [Turret_C]
+[2018.09.05-13.56.06:595][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=525.199 Y=2567.637 Z=1867.732] for [Turret_C]
+[2018.09.05-13.56.06:597][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1843.449 Y=4638.417 Z=1886.431] for [Turret_C]
+[2018.09.05-13.56.06:602][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6669.991 Y=5033.688 Z=2034.537] for [Turret_C]
+[2018.09.05-13.56.06:602][  4]LogLoad: Took 0.070659 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-13.56.12:668][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.12:731][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.23:292][945]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-13.56.23:357][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.23:357][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-13.56.23:357][945]PIE: New page: PIE session: Level1 (Sep 5, 2018, 7:56:23 PM)
+[2018.09.05-13.56.23:357][945]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-13.56.23:377][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020109s)
+[2018.09.05-13.56.23:378][945]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-13.56.23:378][945]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2018.09.05-13.56.23:378][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020937s)
+[2018.09.05-13.56.23:407][945]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-13.56.23:418][945]LogInit: FAudioDevice initialized.
+[2018.09.05-13.56.23:448][945]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-13.56.23:451][945]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-16.56.23
+[2018.09.05-13.56.23:452][945]LogWorld: Bringing up level for play took: 0.002353
+[2018.09.05-13.56.23:463][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-49.459 Y=5637.503 Z=1958.808] for [Turret_C]
+[2018.09.05-13.56.23:467][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2386.544 Y=6987.906 Z=2052.744] for [Turret_C]
+[2018.09.05-13.56.23:469][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8089.583 Y=6745.175 Z=1913.592] for [Turret_C]
+[2018.09.05-13.56.23:470][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1525.646 Y=2206.716 Z=2019.743] for [Turret_C]
+[2018.09.05-13.56.23:471][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2092.322 Y=5391.843 Z=2003.123] for [Turret_C]
+[2018.09.05-13.56.23:472][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8432.419 Y=3767.778 Z=1902.388] for [Turret_C]
+[2018.09.05-13.56.23:474][945]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 1.046
+[2018.09.05-13.56.23:474][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.33:128][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.33:164][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.33:986][196]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-13.56.34:005][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.34:005][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-13.56.34:005][196]PIE: New page: PIE session: Level1 (Sep 5, 2018, 7:56:34 PM)
+[2018.09.05-13.56.34:005][196]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-13.56.34:025][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019805s)
+[2018.09.05-13.56.34:025][196]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-13.56.34:026][196]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.09.05-13.56.34:026][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020603s)
+[2018.09.05-13.56.34:054][196]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-13.56.34:066][196]LogInit: FAudioDevice initialized.
+[2018.09.05-13.56.34:096][196]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-13.56.34:099][196]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-16.56.34
+[2018.09.05-13.56.34:099][196]LogWorld: Bringing up level for play took: 0.002284
+[2018.09.05-13.56.34:111][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1449.823 Y=6657.265 Z=2005.186] for [Turret_C]
+[2018.09.05-13.56.34:113][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6121.454 Y=6190.362 Z=2040.666] for [Turret_C]
+[2018.09.05-13.56.34:115][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=376.093 Y=3009.794 Z=1852.606] for [Turret_C]
+[2018.09.05-13.56.34:117][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3279.730 Y=5906.607 Z=1877.815] for [Turret_C]
+[2018.09.05-13.56.34:121][196]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.307
+[2018.09.05-13.56.34:122][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.36:832][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.36:869][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-13.56.39:617][830]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Healing)
+[2018.09.05-13.56.40:252][900]Cmd: DELETE
+[2018.09.05-13.56.40:252][900]Cmd: ACTOR DELETE
+[2018.09.05-13.56.40:264][900]LogEditorActor: Deleted Actor: Emitter
+[2018.09.05-13.56.40:282][900]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.09.05-13.57.05:232][790]Cmd: DELETE
+[2018.09.05-13.57.05:232][790]Cmd: ACTOR DELETE
+[2018.09.05-13.57.05:235][790]LogEditorActor: Deleted Actor: Emitter
+[2018.09.05-13.57.05:253][790]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.09.05-13.57.26:567][548]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.05-13.57.35:702][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.09.05-13.57.36:175][575]LogSavePackage: Save=372.05ms
+[2018.09.05-13.57.36:175][575]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level1_Auto1331AA4F34B00A3462E212E888589154E.tmp' to 'D:/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap'
+[2018.09.05-13.57.36:176][575]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap
+[2018.09.05-13.57.36:178][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 0.583
+[2018.09.05-13.57.36:178][575]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.583
+[2018.09.05-14.12.04:868][182]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-14.12.04:869][182]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-14.21.44:489][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-14.21.44:957][399]LogSavePackage: Save=332.77ms
+[2018.09.05-14.21.44:957][399]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level1A39F14FA4806C86A13D3398F1B8EBFE6.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-14.21.44:962][399]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-14.21.44:998][399]LogFileHelpers: Saving map 'Level1' took 0.578
+[2018.09.05-14.23.06:910][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-14.23.07:263][ 54]LogSavePackage: Save=330.18ms
+[2018.09.05-14.23.07:263][ 54]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level19AECA2304CC74E1F3B24A8967CF4A8A9.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-14.23.07:265][ 54]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-14.23.07:303][ 54]LogFileHelpers: Saving map 'Level1' took 0.450
+[2018.09.05-14.23.07:306][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-14.23.07:424][ 54]LogSavePackage: Save=108.03ms
+[2018.09.05-14.23.07:424][ 54]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGen0502E7F045C8B80F479E1FBCDE2C40D8.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-14.23.07:425][ 54]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-14.23.08:959][230]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-14.23.08:977][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.23.08:978][230]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.05-14.23.08:994][230]LogPlayLevel: [PlayLevel] Compiling RandomMapGen before play...
+[2018.09.05-14.23.09:261][230]LogPlayLevel: PlayLevel: Blueprint regeneration took 283 ms (1 blueprints)
+[2018.09.05-14.23.09:261][230]PIE: New page: PIE session: Level1 (Sep 5, 2018, 8:23:09 PM)
+[2018.09.05-14.23.09:261][230]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-14.23.09:281][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020228s)
+[2018.09.05-14.23.09:282][230]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-14.23.09:282][230]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2018.09.05-14.23.09:282][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021303s)
+[2018.09.05-14.23.09:311][230]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-14.23.09:323][230]LogInit: FAudioDevice initialized.
+[2018.09.05-14.23.09:352][230]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-14.23.09:355][230]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-17.23.09
+[2018.09.05-14.23.09:356][230]LogWorld: Bringing up level for play took: 0.002390
+[2018.09.05-14.23.09:363][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9202.619 Y=5527.453 Z=1979.773] for [Turret_C]
+[2018.09.05-14.23.09:365][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6261.491 Y=2818.182 Z=1865.381] for [Turret_C]
+[2018.09.05-14.23.09:367][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2894.085 Y=6138.430 Z=1944.293] for [Turret_C]
+[2018.09.05-14.23.09:367][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4078.591 Y=3126.194 Z=2062.199] for [Turret_C]
+[2018.09.05-14.23.09:369][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5970.897 Y=5860.047 Z=2115.071] for [Turret_C]
+[2018.09.05-14.23.09:370][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3215.516 Y=3155.009 Z=2035.836] for [Turret_C]
+[2018.09.05-14.23.09:372][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4472.942 Y=1749.744 Z=2049.909] for [Turret_C]
+[2018.09.05-14.23.09:373][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2586.078 Y=2514.728 Z=1996.961] for [Turret_C]
+[2018.09.05-14.23.09:374][230]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.946
+[2018.09.05-14.23.09:375][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.23.09:692][259]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-14.23.19:958][475]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-16.60 Y=-3.97 Z=0.00 Location: X=-1454.13 Y=5028.71 Z=1961.74 Normal: X=0.96 Y=0.27 Z=0.01 PenetrationDepth:0.014 Actor:BP_PhysicsCube_C_1 Component:Cube BoneName:None (0 other events since notify)
+[2018.09.05-14.23.28:986][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1979.858 Y=6864.994 Z=2008.819] for [Turret_C]
+[2018.09.05-14.24.35:015][479]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-14.24.35:015][479]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-14.24.35:037][479]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-14.24.35:057][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019550s)
+[2018.09.05-14.24.35:058][479]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-14.24.35:058][479]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.09.05-14.24.35:058][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020412s)
+[2018.09.05-14.24.35:058][479]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-14.24.35:061][479]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-17.24.35
+[2018.09.05-14.24.35:061][479]LogWorld: Bringing up level for play took: 0.002373
+[2018.09.05-14.24.35:073][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5506.165 Y=1985.149 Z=2108.425] for [Turret_C]
+[2018.09.05-14.24.35:074][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9636.515 Y=3651.378 Z=1989.814] for [Turret_C]
+[2018.09.05-14.24.35:081][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=192.885 Y=4725.025 Z=1942.307] for [Turret_C]
+[2018.09.05-14.24.35:082][479]LogLoad: Took 0.067075 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-14.24.42:421][358]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-14.24.42:422][358]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-14.24.42:444][358]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-14.24.42:464][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019267s)
+[2018.09.05-14.24.42:464][358]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-14.24.42:464][358]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.09.05-14.24.42:464][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020100s)
+[2018.09.05-14.24.42:464][358]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-14.24.42:467][358]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-17.24.42
+[2018.09.05-14.24.42:467][358]LogWorld: Bringing up level for play took: 0.002334
+[2018.09.05-14.24.42:477][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-776.851 Y=2909.348 Z=1963.391] for [Turret_C]
+[2018.09.05-14.24.42:478][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8953.021 Y=2785.297 Z=2043.551] for [Turret_C]
+[2018.09.05-14.24.42:479][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=59.741 Y=6156.664 Z=2058.431] for [Turret_C]
+[2018.09.05-14.24.42:483][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6853.199 Y=2841.462 Z=2117.864] for [Turret_C]
+[2018.09.05-14.24.42:484][358]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3741.197 Y=4605.044 Z=1899.613] for [Turret_C]
+[2018.09.05-14.24.42:486][358]LogLoad: Took 0.064221 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-14.24.45:986][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.24.46:047][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.25.08:159][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-14.25.08:511][251]LogSavePackage: Save=329.75ms
+[2018.09.05-14.25.08:511][251]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level1069BD5D842200CEB6C822C85347C61C4.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-14.25.08:513][251]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-14.25.08:547][251]LogFileHelpers: Saving map 'Level1' took 0.446
+[2018.09.05-14.25.08:549][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-14.25.08:666][251]LogSavePackage: Save=111.96ms
+[2018.09.05-14.25.08:666][251]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGenB6E2BCF7417BE5CBD1D9379B75D66F43.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-14.25.08:668][251]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-14.25.25:615][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-14.25.25:732][237]LogSavePackage: Save=111.91ms
+[2018.09.05-14.25.25:732][237]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGenA3D9748E4C2E56F089A85EAF0A08DEBB.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-14.25.25:734][237]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-14.43.24:521][860]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-14.43.24:522][860]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-14.44.06:909][932]Cmd: SELECT NONE
+[2018.09.05-14.50.33:810][237]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-14.50.33:810][237]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.05-14.50.35:416][417]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-14.50.35:446][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.50.35:446][417]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.05-14.50.35:463][417]LogPlayLevel: [PlayLevel] Compiling RandomMapGen before play...
+[2018.09.05-14.50.35:739][417]LogPlayLevel: PlayLevel: Blueprint regeneration took 292 ms (1 blueprints)
+[2018.09.05-14.50.35:739][417]PIE: New page: PIE session: Level1 (Sep 5, 2018, 8:50:35 PM)
+[2018.09.05-14.50.35:739][417]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-14.50.35:760][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020718s)
+[2018.09.05-14.50.35:761][417]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-14.50.35:761][417]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.09.05-14.50.35:761][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021745s)
+[2018.09.05-14.50.35:790][417]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-14.50.35:803][417]LogInit: FAudioDevice initialized.
+[2018.09.05-14.50.35:835][417]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-14.50.35:838][417]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-17.50.35
+[2018.09.05-14.50.35:839][417]LogWorld: Bringing up level for play took: 0.002401
+[2018.09.05-14.50.35:851][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6345.295 Y=2927.419 Z=1976.344] for [Turret_C]
+[2018.09.05-14.50.35:852][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1926.890 Y=2359.419 Z=1876.126] for [Turret_C]
+[2018.09.05-14.50.35:852][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-656.404 Y=3855.200 Z=1908.211] for [Turret_C]
+[2018.09.05-14.50.35:853][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9164.526 Y=2459.540 Z=2115.402] for [Turret_C]
+[2018.09.05-14.50.35:857][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6843.404 Y=4454.619 Z=1943.996] for [Turret_C]
+[2018.09.05-14.50.35:860][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7665.847 Y=4193.655 Z=1895.818] for [Turret_C]
+[2018.09.05-14.50.35:861][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-738.031 Y=5792.812 Z=2081.323] for [Turret_C]
+[2018.09.05-14.50.35:861][417]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.431
+[2018.09.05-14.50.35:862][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.50.36:596][504]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-14.50.52:369][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.50.52:429][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-14.51.20:878][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.09.05-14.51.21:253][863]LogSavePackage: Save=358.49ms
+[2018.09.05-14.51.21:253][863]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level1_Auto2CAFF80AA486F612C011931B7DC135AA0.tmp' to 'D:/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap'
+[2018.09.05-14.51.21:376][863]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap
+[2018.09.05-14.51.21:380][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 0.520
+[2018.09.05-14.51.21:380][863]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.520
+[2018.09.05-15.06.06:399][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-15.06.06:431][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.06.06:431][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-15.06.06:431][183]PIE: New page: PIE session: Level1 (Sep 5, 2018, 9:06:06 PM)
+[2018.09.05-15.06.06:431][183]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-15.06.06:453][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021992s)
+[2018.09.05-15.06.06:454][183]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-15.06.06:454][183]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2018.09.05-15.06.06:454][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.023151s)
+[2018.09.05-15.06.06:487][183]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-15.06.06:498][183]LogInit: FAudioDevice initialized.
+[2018.09.05-15.06.06:531][183]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-15.06.06:534][183]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-18.06.06
+[2018.09.05-15.06.06:535][183]LogWorld: Bringing up level for play took: 0.002530
+[2018.09.05-15.06.06:548][183]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3655.216 Y=3834.362 Z=2060.918] for [Turret_C]
+[2018.09.05-15.06.06:549][183]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1037.094 Y=3527.326 Z=2050.486] for [Turret_C]
+[2018.09.05-15.06.06:551][183]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6526.327 Y=5970.912 Z=1868.385] for [Turret_C]
+[2018.09.05-15.06.06:556][183]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7252.267 Y=5289.443 Z=1996.647] for [Turret_C]
+[2018.09.05-15.06.06:557][183]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8514.409 Y=4695.070 Z=1970.657] for [Turret_C]
+[2018.09.05-15.06.06:560][183]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.268
+[2018.09.05-15.06.06:560][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.06.07:974][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.06.08:012][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.57.52:337][288]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-15.57.52:376][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.57.52:376][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-15.57.52:377][288]PIE: New page: PIE session: Level1 (Sep 5, 2018, 9:57:52 PM)
+[2018.09.05-15.57.52:377][288]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-15.57.52:427][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049323s)
+[2018.09.05-15.57.52:431][288]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-15.57.52:432][288]LogPlayLevel: PIE: World Init took: (0.004677s)
+[2018.09.05-15.57.52:433][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.056289s)
+[2018.09.05-15.57.52:509][288]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-15.57.52:521][288]LogInit: FAudioDevice initialized.
+[2018.09.05-15.57.52:552][288]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-15.57.52:557][288]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-18.57.52
+[2018.09.05-15.57.52:558][288]LogWorld: Bringing up level for play took: 0.004153
+[2018.09.05-15.57.52:571][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8634.855 Y=3201.406 Z=2102.262] for [Turret_C]
+[2018.09.05-15.57.52:572][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2100.667 Y=3621.260 Z=1952.722] for [Turret_C]
+[2018.09.05-15.57.52:573][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=229.889 Y=4107.047 Z=1850.510] for [Turret_C]
+[2018.09.05-15.57.52:573][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-455.057 Y=4683.512 Z=2056.054] for [Turret_C]
+[2018.09.05-15.57.52:578][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=783.142 Y=2369.024 Z=1914.169] for [Turret_C]
+[2018.09.05-15.57.52:580][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5003.702 Y=3956.460 Z=2061.206] for [Turret_C]
+[2018.09.05-15.57.52:580][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2628.162 Y=5321.188 Z=2094.615] for [Turret_C]
+[2018.09.05-15.57.52:582][288]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.29
+[2018.09.05-15.57.52:583][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.57.54:741][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.57.54:801][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.58.43:734][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-15.58.44:165][150]LogSavePackage: Save=394.55ms
+[2018.09.05-15.58.44:165][150]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level1A1412786435AB4C04C1DAF9C19C6375A.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-15.58.44:169][150]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-15.58.44:203][150]LogFileHelpers: Saving map 'Level1' took 0.542
+[2018.09.05-15.58.44:205][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-15.58.44:333][150]LogSavePackage: Save=117.38ms
+[2018.09.05-15.58.44:333][150]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGen65009CE14043B8149BE2ED89ADF54DAB.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-15.58.44:334][150]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-15.58.46:344][371]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-15.58.46:364][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.58.46:364][371]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.05-15.58.46:382][371]LogPlayLevel: [PlayLevel] Compiling RandomMapGen before play...
+[2018.09.05-15.58.46:659][371]LogPlayLevel: PlayLevel: Blueprint regeneration took 293 ms (1 blueprints)
+[2018.09.05-15.58.46:659][371]PIE: New page: PIE session: Level1 (Sep 5, 2018, 9:58:46 PM)
+[2018.09.05-15.58.46:659][371]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-15.58.46:680][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020483s)
+[2018.09.05-15.58.46:680][371]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-15.58.46:680][371]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2018.09.05-15.58.46:681][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021419s)
+[2018.09.05-15.58.46:708][371]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-15.58.46:720][371]LogInit: FAudioDevice initialized.
+[2018.09.05-15.58.46:753][371]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-15.58.46:757][371]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-18.58.46
+[2018.09.05-15.58.46:757][371]LogWorld: Bringing up level for play took: 0.002534
+[2018.09.05-15.58.46:767][371]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3701.291 Y=4625.556 Z=1963.714] for [Turret_C]
+[2018.09.05-15.58.46:771][371]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4597.379 Y=2854.486 Z=1967.694] for [Turret_C]
+[2018.09.05-15.58.46:771][371]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1244.848 Y=3674.169 Z=1945.142] for [Turret_C]
+[2018.09.05-15.58.46:772][371]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1382.707 Y=2691.851 Z=1898.509] for [Turret_C]
+[2018.09.05-15.58.46:775][371]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.483
+[2018.09.05-15.58.46:775][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.58.46:811][373]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-15.58.48:745][581]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-15.58.48:745][581]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-15.58.48:766][581]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-15.58.48:786][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019684s)
+[2018.09.05-15.58.48:787][581]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-15.58.48:787][581]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.09.05-15.58.48:787][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020508s)
+[2018.09.05-15.58.48:787][581]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-15.58.48:790][581]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-18.58.48
+[2018.09.05-15.58.48:790][581]LogWorld: Bringing up level for play took: 0.002492
+[2018.09.05-15.58.48:799][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6851.022 Y=2223.321 Z=1958.188] for [Turret_C]
+[2018.09.05-15.58.48:801][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2664.803 Y=2315.139 Z=2096.856] for [Turret_C]
+[2018.09.05-15.58.48:801][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6308.653 Y=7022.419 Z=1875.159] for [Turret_C]
+[2018.09.05-15.58.48:804][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2489.576 Y=7043.908 Z=2040.258] for [Turret_C]
+[2018.09.05-15.58.48:806][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6751.256 Y=3540.513 Z=2101.558] for [Turret_C]
+[2018.09.05-15.58.48:807][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-779.752 Y=2755.017 Z=1873.011] for [Turret_C]
+[2018.09.05-15.58.48:808][581]LogLoad: Took 0.062906 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-15.59.02:619][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.59.02:682][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.59.38:278][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-15.59.38:634][294]LogSavePackage: Save=333.64ms
+[2018.09.05-15.59.38:634][294]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level155875B41495E842B0F5DCC8AA5494015.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-15.59.38:636][294]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-15.59.38:669][294]LogFileHelpers: Saving map 'Level1' took 0.452
+[2018.09.05-15.59.38:671][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-15.59.38:791][294]LogSavePackage: Save=113.99ms
+[2018.09.05-15.59.38:791][294]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGenFC3FF7A644229ECD31CBD4AE6E301E89.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-15.59.38:792][294]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-15.59.50:030][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-15.59.50:149][605]LogSavePackage: Save=113.69ms
+[2018.09.05-15.59.50:149][605]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGen782788D34F0816CA235D26B049890F6D.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-15.59.50:151][605]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-15.59.51:767][797]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-15.59.51:797][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.59.51:797][797]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.05-15.59.51:814][797]LogPlayLevel: [PlayLevel] Compiling RandomMapGen before play...
+[2018.09.05-15.59.52:083][797]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2018.09.05-15.59.52:083][797]PIE: New page: PIE session: Level1 (Sep 5, 2018, 9:59:52 PM)
+[2018.09.05-15.59.52:083][797]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-15.59.52:104][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020978s)
+[2018.09.05-15.59.52:104][797]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-15.59.52:105][797]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2018.09.05-15.59.52:105][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021805s)
+[2018.09.05-15.59.52:133][797]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-15.59.52:145][797]LogInit: FAudioDevice initialized.
+[2018.09.05-15.59.52:173][797]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-15.59.52:176][797]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-18.59.52
+[2018.09.05-15.59.52:177][797]LogWorld: Bringing up level for play took: 0.002360
+[2018.09.05-15.59.52:193][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5618.629 Y=3820.850 Z=1856.859] for [Turret_C]
+[2018.09.05-15.59.52:194][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4297.353 Y=3317.481 Z=2055.002] for [Turret_C]
+[2018.09.05-15.59.52:195][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4586.495 Y=6823.969 Z=2053.313] for [Turret_C]
+[2018.09.05-15.59.52:198][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=547.691 Y=5493.102 Z=2035.895] for [Turret_C]
+[2018.09.05-15.59.52:198][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3190.121 Y=4807.400 Z=2099.792] for [Turret_C]
+[2018.09.05-15.59.52:199][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4733.062 Y=4789.330 Z=2076.654] for [Turret_C]
+[2018.09.05-15.59.52:200][797]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=818.695 Y=3598.143 Z=2004.227] for [Turret_C]
+[2018.09.05-15.59.52:201][797]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 -0.092
+[2018.09.05-15.59.52:201][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-15.59.57:662][445]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-15.59.57:662][445]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-15.59.57:683][445]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-15.59.57:702][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019842s)
+[2018.09.05-15.59.57:703][445]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-15.59.57:703][445]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.09.05-15.59.57:703][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020796s)
+[2018.09.05-15.59.57:703][445]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-15.59.57:706][445]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-18.59.57
+[2018.09.05-15.59.57:706][445]LogWorld: Bringing up level for play took: 0.002357
+[2018.09.05-15.59.57:719][445]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2005.979 Y=1837.166 Z=1906.267] for [Turret_C]
+[2018.09.05-15.59.57:720][445]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4110.516 Y=5599.083 Z=2024.513] for [Turret_C]
+[2018.09.05-15.59.57:720][445]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4084.032 Y=2797.181 Z=2022.875] for [Turret_C]
+[2018.09.05-15.59.57:725][445]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8901.505 Y=2135.410 Z=1954.657] for [Turret_C]
+[2018.09.05-15.59.57:726][445]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9529.855 Y=4039.486 Z=1995.764] for [Turret_C]
+[2018.09.05-15.59.57:728][445]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-70.501 Y=5806.813 Z=2059.101] for [Turret_C]
+[2018.09.05-15.59.57:728][445]LogLoad: Took 0.067434 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-15.59.58:449][531]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-15.59.58:449][531]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-15.59.58:469][531]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-15.59.58:489][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019491s)
+[2018.09.05-15.59.58:489][531]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-15.59.58:490][531]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2018.09.05-15.59.58:490][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020444s)
+[2018.09.05-15.59.58:490][531]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-15.59.58:493][531]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-18.59.58
+[2018.09.05-15.59.58:493][531]LogWorld: Bringing up level for play took: 0.002473
+[2018.09.05-15.59.58:515][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-159.746 Y=5430.914 Z=2093.995] for [Turret_C]
+[2018.09.05-15.59.58:518][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4951.098 Y=6446.605 Z=2054.170] for [Turret_C]
+[2018.09.05-15.59.58:519][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1302.293 Y=2638.454 Z=2081.119] for [Turret_C]
+[2018.09.05-15.59.58:521][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7089.375 Y=4498.737 Z=1998.217] for [Turret_C]
+[2018.09.05-15.59.58:522][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-428.573 Y=6116.615 Z=2042.414] for [Turret_C]
+[2018.09.05-15.59.58:523][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8095.025 Y=4157.840 Z=1963.069] for [Turret_C]
+[2018.09.05-15.59.58:524][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7195.672 Y=5618.781 Z=1911.674] for [Turret_C]
+[2018.09.05-15.59.58:526][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9261.392 Y=4158.002 Z=2043.959] for [Turret_C]
+[2018.09.05-15.59.58:526][531]LogLoad: Took 0.077188 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-16.00.03:697][151]LogScript: Warning: Accessed None trying to read property HeldComp
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Character/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:017A
+[2018.09.05-16.00.03:697][151]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property HeldComp from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Set Collision Profile Name in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property HeldComp
+[2018.09.05-16.00.04:238][216]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-16.00.18:453][903]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1820.354 Y=3668.960 Z=1918.328] for [Turret_C]
+[2018.09.05-16.00.34:940][882]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.00.34:941][882]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.00.34:964][882]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-16.00.34:983][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019708s)
+[2018.09.05-16.00.34:984][882]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-16.00.34:984][882]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.09.05-16.00.34:984][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020561s)
+[2018.09.05-16.00.34:984][882]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-16.00.34:987][882]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-19.00.34
+[2018.09.05-16.00.34:987][882]LogWorld: Bringing up level for play took: 0.002331
+[2018.09.05-16.00.34:996][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8900.416 Y=5953.330 Z=2054.934] for [Turret_C]
+[2018.09.05-16.00.34:998][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3030.131 Y=4038.509 Z=2051.573] for [Turret_C]
+[2018.09.05-16.00.35:003][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1765.937 Y=3609.213 Z=1903.627] for [Turret_C]
+[2018.09.05-16.00.35:005][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3741.197 Y=5136.902 Z=2108.000] for [Turret_C]
+[2018.09.05-16.00.35:006][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5054.493 Y=4971.988 Z=1980.316] for [Turret_C]
+[2018.09.05-16.00.35:007][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1941.765 Y=6461.583 Z=1862.970] for [Turret_C]
+[2018.09.05-16.00.35:007][882]LogLoad: Took 0.065860 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-16.00.38:014][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.00.38:075][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.01.44:975][359]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-16.01.44:998][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.01.44:998][359]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.05-16.01.45:066][359]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.09.05-16.01.45:338][359]LogPlayLevel: PlayLevel: Blueprint regeneration took 339 ms (1 blueprints)
+[2018.09.05-16.01.45:338][359]PIE: New page: PIE session: Level1 (Sep 5, 2018, 10:01:45 PM)
+[2018.09.05-16.01.45:338][359]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-16.01.45:358][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020455s)
+[2018.09.05-16.01.45:359][359]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-16.01.45:359][359]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.09.05-16.01.45:359][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021393s)
+[2018.09.05-16.01.45:388][359]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-16.01.45:400][359]LogInit: FAudioDevice initialized.
+[2018.09.05-16.01.45:432][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-16.01.45:435][359]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-19.01.45
+[2018.09.05-16.01.45:436][359]LogWorld: Bringing up level for play took: 0.002397
+[2018.09.05-16.01.45:448][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=603.198 Y=2617.779 Z=2109.129] for [Turret_C]
+[2018.09.05-16.01.45:450][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2827.695 Y=6592.309 Z=2087.128] for [Turret_C]
+[2018.09.05-16.01.45:452][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4683.359 Y=6159.594 Z=1947.756] for [Turret_C]
+[2018.09.05-16.01.45:453][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9588.627 Y=2986.840 Z=1998.701] for [Turret_C]
+[2018.09.05-16.01.45:455][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1919.998 Y=1744.046 Z=1962.729] for [Turret_C]
+[2018.09.05-16.01.45:455][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6354.728 Y=4811.959 Z=2070.229] for [Turret_C]
+[2018.09.05-16.01.45:458][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1085.583 Y=6210.712 Z=2089.607] for [Turret_C]
+[2018.09.05-16.01.45:459][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1504.365 Y=2084.943 Z=2010.669] for [Turret_C]
+[2018.09.05-16.01.45:459][359]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 1.166
+[2018.09.05-16.01.45:459][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.01.48:015][659]Cmd: LevelEditor.ToggleImmersive
+[2018.09.05-16.02.05:069][689]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7770.330 Y=4821.727 Z=1858.251] for [Turret_C]
+[2018.09.05-16.02.25:074][ 88]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2630.338 Y=2820.787 Z=1904.451] for [Turret_C]
+[2018.09.05-16.02.45:074][488]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=821.960 Y=6369.765 Z=1966.039] for [Turret_C]
+[2018.09.05-16.02.45:076][488]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3694.398 Y=5546.500 Z=1877.773] for [Turret_C]
+[2018.09.05-16.03.59:993][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.04.00:060][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.04.04:631][  8]LogEditorViewport: Clicking on Actor (LMB): FloorWhite_C (FloorWhite4)
+[2018.09.05-16.04.06:397][195]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite6)
+[2018.09.05-16.04.06:814][224]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite5)
+[2018.09.05-16.04.07:289][272]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite10)
+[2018.09.05-16.04.08:251][381]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite9)
+[2018.09.05-16.04.08:927][459]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite10)
+[2018.09.05-16.04.09:598][536]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite3)
+[2018.09.05-16.04.11:749][765]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite2)
+[2018.09.05-16.04.12:110][790]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite)
+[2018.09.05-16.04.16:104][225]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite7)
+[2018.09.05-16.04.16:698][287]LogEditorViewport: Clicking on Actor (CTRL LMB): FloorWhite_C (FloorWhite8)
+[2018.09.05-16.04.18:869][512]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Door2Cubes_C (BP_Door2Cubes)
+[2018.09.05-16.04.21:558][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.04.21:558][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.04.21:558][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.04.21:558][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.04.21:559][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.04.21:559][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.04.21:559][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.04.21:559][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.04.21:559][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.04.21:560][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.04.21:560][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.04.21:560][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.04.21:560][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.04.21:560][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.04.21:561][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.04.21:561][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.04.21:561][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.04.21:561][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.04.21:561][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.04.21:561][820]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.04.23:225][ 17]Cmd: TRANSACTION UNDO
+[2018.09.05-16.04.23:226][ 17]LogEditorTransaction: Undo Scale Actors
+[2018.09.05-16.04.30:504][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.04.30:504][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.04.30:505][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.04.30:505][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.04.30:505][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.04.30:505][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.04.30:506][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.04.30:506][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.04.30:506][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.04.30:506][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.04.30:506][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.04.30:506][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.04.30:507][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.04.30:507][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.04.30:507][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.04.30:507][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.04.30:507][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.04.30:508][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.04.30:508][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.04.30:508][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.04.30:888][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.04.30:888][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.04.30:888][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.04.30:888][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.04.30:889][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.04.30:889][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.04.30:889][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.04.30:889][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.04.30:889][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.04.30:889][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.04.30:890][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.04.30:890][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.04.30:890][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.04.30:890][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.04.30:890][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.04.30:891][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.04.30:891][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.04.30:891][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.04.30:891][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.04.30:891][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.04.31:971][999]Cmd: TRANSACTION UNDO
+[2018.09.05-16.04.31:971][999]LogEditorTransaction: Undo Scale Actors
+[2018.09.05-16.04.37:068][603]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-16.04.37:090][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.04.37:090][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-16.04.37:090][603]PIE: New page: PIE session: Level1 (Sep 5, 2018, 10:04:37 PM)
+[2018.09.05-16.04.37:090][603]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-16.04.37:110][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019497s)
+[2018.09.05-16.04.37:110][603]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-16.04.37:110][603]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.09.05-16.04.37:110][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.020404s)
+[2018.09.05-16.04.37:158][603]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-16.04.37:170][603]LogInit: FAudioDevice initialized.
+[2018.09.05-16.04.37:202][603]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-16.04.37:205][603]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-19.04.37
+[2018.09.05-16.04.37:205][603]LogWorld: Bringing up level for play took: 0.002343
+[2018.09.05-16.04.37:218][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7480.824 Y=2467.842 Z=1898.246] for [Turret_C]
+[2018.09.05-16.04.37:218][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4934.410 Y=6719.291 Z=1976.021] for [Turret_C]
+[2018.09.05-16.04.37:219][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=657.617 Y=5133.646 Z=2122.752] for [Turret_C]
+[2018.09.05-16.04.37:222][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2911.500 Y=1864.353 Z=2118.806] for [Turret_C]
+[2018.09.05-16.04.37:223][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-582.759 Y=2645.617 Z=1867.494] for [Turret_C]
+[2018.09.05-16.04.37:224][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=620.612 Y=6248.644 Z=2049.527] for [Turret_C]
+[2018.09.05-16.04.37:225][603]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.933
+[2018.09.05-16.04.37:226][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.04.57:069][981]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4231.688 Y=6531.585 Z=1923.964] for [Turret_C]
+[2018.09.05-16.05.01:924][564]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.05.01:924][564]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.05.01:947][564]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-16.05.01:965][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018211s)
+[2018.09.05-16.05.01:965][564]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-16.05.01:965][564]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2018.09.05-16.05.01:966][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.019019s)
+[2018.09.05-16.05.01:966][564]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-16.05.01:968][564]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-19.05.01
+[2018.09.05-16.05.01:969][564]LogWorld: Bringing up level for play took: 0.002347
+[2018.09.05-16.05.01:976][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7841.073 Y=3457.324 Z=2009.786] for [Turret_C]
+[2018.09.05-16.05.01:977][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9717.779 Y=4936.661 Z=1915.468] for [Turret_C]
+[2018.09.05-16.05.01:978][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5881.289 Y=5323.468 Z=1873.487] for [Turret_C]
+[2018.09.05-16.05.01:979][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1738.603 Y=5740.879 Z=1953.511] for [Turret_C]
+[2018.09.05-16.05.01:981][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7535.242 Y=5181.508 Z=1868.377] for [Turret_C]
+[2018.09.05-16.05.01:983][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2078.173 Y=3978.926 Z=2120.512] for [Turret_C]
+[2018.09.05-16.05.01:983][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5423.086 Y=5873.722 Z=2013.835] for [Turret_C]
+[2018.09.05-16.05.01:985][564]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3741.560 Y=4399.919 Z=2048.042] for [Turret_C]
+[2018.09.05-16.05.01:985][564]LogLoad: Took 0.060409 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-16.05.21:928][957]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3072.578 Y=2733.690 Z=2039.350] for [Turret_C]
+[2018.09.05-16.05.41:927][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3407.068 Y=6181.734 Z=2016.280] for [Turret_C]
+[2018.09.05-16.05.41:929][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-732.228 Y=6509.608 Z=2122.328] for [Turret_C]
+[2018.09.05-16.06.01:936][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-232.305 Y=3060.750 Z=2033.850] for [Turret_C]
+[2018.09.05-16.06.01:937][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3257.600 Y=7029.094 Z=1918.778] for [Turret_C]
+[2018.09.05-16.06.11:310][881]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.06.11:310][881]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.06.11:333][881]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-16.06.11:352][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018418s)
+[2018.09.05-16.06.11:352][881]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-16.06.11:352][881]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.09.05-16.06.11:353][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.019420s)
+[2018.09.05-16.06.11:353][881]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-16.06.11:355][881]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-19.06.11
+[2018.09.05-16.06.11:356][881]LogWorld: Bringing up level for play took: 0.002293
+[2018.09.05-16.06.11:370][881]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2839.305 Y=2976.746 Z=2077.800] for [Turret_C]
+[2018.09.05-16.06.11:371][881]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2936.895 Y=3873.922 Z=1954.411] for [Turret_C]
+[2018.09.05-16.06.11:373][881]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6269.109 Y=5329.002 Z=1997.878] for [Turret_C]
+[2018.09.05-16.06.11:377][881]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1507.268 Y=2987.491 Z=1972.872] for [Turret_C]
+[2018.09.05-16.06.11:379][881]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3680.611 Y=6802.317 Z=2126.114] for [Turret_C]
+[2018.09.05-16.06.11:380][881]LogLoad: Took 0.069955 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-16.06.11:879][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.06.11:913][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.06.16:788][495]LogEditorViewport: Clicking on Actor (LMB): FloorWhite_C (FloorWhite5)
+[2018.09.05-16.06.28:838][732]Cmd: TRANSACTION UNDO
+[2018.09.05-16.06.28:838][732]LogEditorTransaction: Undo Scale Actors
+[2018.09.05-16.06.29:758][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.06.29:759][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.06.29:759][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.06.29:759][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.06.29:759][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.06.29:759][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.06.29:760][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.06.29:760][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.06.29:760][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.06.29:760][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.06.29:760][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.06.29:760][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.06.29:761][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.06.29:761][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.06.29:761][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.06.29:761][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.06.29:761][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.06.29:761][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.06.29:762][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.06.29:762][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.06.30:018][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.06.30:018][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite5.SM_Floor' 
+[2018.09.05-16.06.30:018][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.06.30:018][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite6.SM_Floor' 
+[2018.09.05-16.06.30:018][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.06.30:018][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite4.SM_Floor' 
+[2018.09.05-16.06.30:019][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.06.30:019][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite3.SM_Floor' 
+[2018.09.05-16.06.30:019][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.06.30:019][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite10.SM_Floor' 
+[2018.09.05-16.06.30:019][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.06.30:020][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite9.SM_Floor' 
+[2018.09.05-16.06.30:020][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.06.30:020][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite2.SM_Floor' 
+[2018.09.05-16.06.30:020][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.06.30:020][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite_287.SM_Floor' 
+[2018.09.05-16.06.30:021][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.06.30:021][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite7.SM_Floor' 
+[2018.09.05-16.06.30:021][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.06.30:021][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.FloorWhite8.SM_Floor' 
+[2018.09.05-16.06.30:982][985]Cmd: TRANSACTION UNDO
+[2018.09.05-16.06.30:982][985]LogEditorTransaction: Undo Scale Actors
+[2018.09.05-16.07.06:530][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.05-16.07.06:555][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.07.06:555][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-16.07.06:555][ 54]PIE: New page: PIE session: Level1 (Sep 5, 2018, 10:07:06 PM)
+[2018.09.05-16.07.06:555][ 54]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-16.07.06:575][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019813s)
+[2018.09.05-16.07.06:576][ 54]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-16.07.06:576][ 54]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.09.05-16.07.06:576][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.021073s)
+[2018.09.05-16.07.06:629][ 54]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.05-16.07.06:641][ 54]LogInit: FAudioDevice initialized.
+[2018.09.05-16.07.06:674][ 54]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-16.07.06:677][ 54]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-19.07.06
+[2018.09.05-16.07.06:677][ 54]LogWorld: Bringing up level for play took: 0.002226
+[2018.09.05-16.07.06:687][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7129.282 Y=5005.850 Z=2123.432] for [Turret_C]
+[2018.09.05-16.07.06:687][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4092.740 Y=5353.260 Z=2120.996] for [Turret_C]
+[2018.09.05-16.07.06:691][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6578.206 Y=3702.333 Z=1978.041] for [Turret_C]
+[2018.09.05-16.07.06:692][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3030.131 Y=2651.966 Z=2121.318] for [Turret_C]
+[2018.09.05-16.07.06:692][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8266.625 Y=5038.572 Z=2082.078] for [Turret_C]
+[2018.09.05-16.07.06:693][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-986.905 Y=4017.509 Z=1986.173] for [Turret_C]
+[2018.09.05-16.07.06:694][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5023.656 Y=5257.535 Z=2064.152] for [Turret_C]
+[2018.09.05-16.07.06:694][ 54]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.403
+[2018.09.05-16.07.06:695][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.07.26:531][433]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5272.529 Y=2260.113 Z=1864.999] for [Turret_C]
+[2018.09.05-16.07.46:606][842]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.07.46:606][842]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2018.09.05-16.07.46:628][842]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2018.09.05-16.07.46:646][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017805s)
+[2018.09.05-16.07.46:647][842]LogAIModule: Creating AISystem for world Level1
+[2018.09.05-16.07.46:647][842]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2018.09.05-16.07.46:647][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.019118s)
+[2018.09.05-16.07.46:647][842]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.05-16.07.46:650][842]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.05-19.07.46
+[2018.09.05-16.07.46:650][842]LogWorld: Bringing up level for play took: 0.002240
+[2018.09.05-16.07.46:667][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8514.771 Y=2573.660 Z=1869.939] for [Turret_C]
+[2018.09.05-16.07.46:668][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6644.958 Y=6621.287 Z=1935.568] for [Turret_C]
+[2018.09.05-16.07.46:670][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4410.180 Y=2836.089 Z=1859.796] for [Turret_C]
+[2018.09.05-16.07.46:671][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4267.241 Y=6370.090 Z=1859.261] for [Turret_C]
+[2018.09.05-16.07.46:672][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1236.265 Y=4603.578 Z=1952.968] for [Turret_C]
+[2018.09.05-16.07.46:675][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-810.952 Y=6510.422 Z=1968.467] for [Turret_C]
+[2018.09.05-16.07.46:675][842]LogLoad: Took 0.069102 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2018.09.05-16.07.49:130][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.07.49:163][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.09.05-16.08.04:224][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-16.08.04:711][703]LogSavePackage: Save=339.86ms
+[2018.09.05-16.08.04:711][703]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level1F55784164B8F47A3DCB4F49FEB1523CA.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-16.08.04:712][703]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-16.08.04:745][703]LogFileHelpers: Saving map 'Level1' took 0.584
+[2018.09.05-16.08.04:748][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-16.08.04:883][703]LogSavePackage: Save=124.19ms
+[2018.09.05-16.08.04:883][703]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGenF8E5FEA04ABD4EFB0542CDA3C9366C3C.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-16.08.04:885][703]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-16.08.05:291][703]LogSavePackage: Save=345.35ms
+[2018.09.05-16.08.05:291][703]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/ThirdPersonCharacterD1031BC94A332E81E218668B748F0BE0.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Character/ThirdPersonCharacter.uasset'
+[2018.09.05-16.08.05:293][703]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Character/ThirdPersonCharacter.uasset
+[2018.09.05-16.08.24:333][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-16.08.24:694][772]LogSavePackage: Save=336.85ms
+[2018.09.05-16.08.24:695][772]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level1FEECF3B445D5B59F98BC1AB30B034132.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-16.08.24:696][772]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-16.08.24:731][772]LogFileHelpers: Saving map 'Level1' took 0.456
+[2018.09.05-16.08.24:733][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/RandomMapGen" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset" SILENT=true
+[2018.09.05-16.08.24:851][772]LogSavePackage: Save=113.82ms
+[2018.09.05-16.08.24:852][772]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/RandomMapGen6A0E902C4137A13ECD73E8920574FBA8.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset'
+[2018.09.05-16.08.24:853][772]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/RandomMapGen.uasset
+[2018.09.05-16.08.25:117][781]BlueprintLog: New page: Compile RandomMapGen
+[2018.09.05-16.08.35:372][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.05-16.08.35:731][829]LogSavePackage: Save=334.25ms
+[2018.09.05-16.08.35:731][829]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/Level183910E08459083C07C87B88E16202714.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap'
+[2018.09.05-16.08.35:733][829]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/Level1.umap
+[2018.09.05-16.08.35:767][829]LogFileHelpers: Saving map 'Level1' took 0.456
+[2018.09.05-16.08.35:769][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Environment/FloatingThing" FILE="D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/FloatingThing.uasset" SILENT=true
+[2018.09.05-16.08.35:812][829]LogSavePackage: Save=32.20ms
+[2018.09.05-16.08.35:812][829]LogSavePackage: Moving 'D:/Unreal Projects/MyProject/Saved/FloatingThing6F8DAB5A440F8511B9704A9E181526A3.tmp' to 'D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/FloatingThing.uasset'
+[2018.09.05-16.08.35:813][829]LogSavePackage: Display: Finished SavePackage D:/Unreal Projects/MyProject/Content/ThirdPersonBP/Blueprints/Environment/FloatingThing.uasset
+[2018.09.05-16.08.38:476][ 84]BlueprintLog: New page: Compile FloatingThing
+[2018.09.05-16.09.33:631][ 95]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.09.05-16.09.34:011][ 95]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.381 s
+[2018.09.05-16.09.34:011][ 95]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: 
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: Stack: 
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000052672786 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000005241123A UE4Editor-Core.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000005242B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000004F7433F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000004DB003AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000004CDF3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000004CC874AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000004CC8ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000004CDB8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000051D37397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000051D3CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000051F79913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000051D93484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000051D6B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000051D5D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000075B7E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000075B71A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000075B803EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000075B6D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000A1AB6CC1 USER32.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000A1AB6693 USER32.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x0000000075B81516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000E77350C8 UE4Editor.exe!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000E7745430 UE4Editor.exe!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000E77454AA UE4Editor.exe!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000E7752379 UE4Editor.exe!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000E7753D57 UE4Editor.exe!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x000000009F2D3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: [Callstack] 0x00000000A1CE1431 ntdll.dll!UnknownFunction []
+[2018.09.05-16.09.34:012][ 95]LogOutputDevice: Error: 
+[2018.09.05-16.09.34:021][ 95]LogStats:                SubmitErrorReport -  0.000 s
